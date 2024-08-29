@@ -1,7 +1,7 @@
 
 # Airbnb Exploration - Find Your Ideal Home
 
-![Airbnb Logo](./airbnb_logo.jpg)
+![Airbnb Logo](./airbnb logo.jpg)
 
 ## Overview
 
@@ -16,7 +16,6 @@ The **Airbnb Exploration App** is an interactive tool designed to help users dis
 - **Real-Time Data Visualization:** Visualize booking trends and other relevant data with interactive charts powered by `ggplot2` and `plotly`.
 - **Scalable Performance:** Efficient handling of large Airbnb datasets using `dplyr` and `data.table` for optimized server-side computations.
   
-![New York](./new_york2.jpg)
 
 ## Installation
 
