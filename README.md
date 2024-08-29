@@ -1,7 +1,7 @@
 
 # Airbnb Exploration - Find Your Ideal Home
 
-![Airbnb Logo](./airbnb logo.jpg)
+![Airbnb Logo](./airbnb_logo.jpg)
 
 ## Overview
 
