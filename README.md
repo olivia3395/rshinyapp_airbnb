@@ -2,6 +2,7 @@
 # Airbnb Exploration - Find Your Ideal Home
 
 [Explore the Airbnb Exploration App](https://yuyaowang.shinyapps.io/airbnb_app/)
+
 ![Airbnb Logo](./airbnb_logo.jpg)
 ## Overview
 
